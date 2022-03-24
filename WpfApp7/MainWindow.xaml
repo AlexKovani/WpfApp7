@@ -35,15 +35,11 @@
         <ToolBarTray Grid.Row="1" Margin="0,0.4,-0.4,171.6">
             <ToolBar Margin="5" Padding="5">
                 <ComboBox Margin="5" Padding="5" Width="200" Height="50" SelectedIndex="0" FontSize="18" SelectionChanged="ComboBox_SelectionChanged">
-                    <TextBlock Text="Arial"/>
-                    <TextBlock Text="Time New Roman"/>
-                    <TextBlock Text="Verdana"/>
+                   
                 </ComboBox>
 
                 <ComboBox Margin="5" Padding="5" Width="50" Height="50" SelectedIndex="1" FontSize="18" SelectionChanged="ComboBox_SelectionChanged_1">
-                    <TextBlock Text="14"/>
-                    <TextBlock Text="16"/>
-                    <TextBlock Text="18"/>
+                   
                 </ComboBox>
             </ToolBar>
 
