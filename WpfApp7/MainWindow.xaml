@@ -77,7 +77,7 @@
         <TextBox
             x:Name="textBox" 
             Grid.Row="1" 
-            Margin="5,88.4,4.6,4.8" 
+            Margin="6,88.4,4.6,4.8" 
             Padding="5"
             FontSize="{Binding ElementName=cbSize, Path=Text}" 
             FontFamily="{Binding ElementName=cbFont, Path=Text}" 
